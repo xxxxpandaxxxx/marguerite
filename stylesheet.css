@@ -23,7 +23,7 @@ a {
   
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: #ffc0cb;
   text-align: center;
 }
 
@@ -32,9 +32,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   padding-top:200px;
-   color: #000;
-  -webkit-text-stroke: 1px #FFF;
-  text-stroke: 1px #FFF;
+  
   
 }
 
